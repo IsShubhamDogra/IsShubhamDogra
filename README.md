@@ -13,6 +13,7 @@ I'm a software developer who loves working on web applications, open-source proj
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
+![Xampp](https://img.shields.io/badge/-Xampp-333333?style=flat&logo=Xampp)
 
 
 ## 🔗 Connect with Me
